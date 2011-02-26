@@ -2,6 +2,9 @@
 
 http://github.com/midas/usesguid_migrations/tree/master
 
+== FORK DESCRIPTION
+
+This fork is an attempt to add a JDBC driver.
 
 == DESCRIPTION
 
